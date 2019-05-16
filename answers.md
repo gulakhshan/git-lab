@@ -2,9 +2,8 @@
 
 1. Gulakshans-MacBook-Pro:git-lab gula$ git --version
     git version 2.21.0
-2. 
-user.namen=Gulakhshan
-user.email= gh824514@0hio.edu
+2.  user.namen=Gulakhshan
+     user.email= gh824514@0hio.edu
 
 3. Gulakshans-MacBook-Pro:~ gula$ git --help
     usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
